@@ -2,7 +2,7 @@
 **Chain-based Adaptive Reconfiguration Over Lattices for Hallucination Reduction**
 
 <p align="center">
-  <img src="figures/figure1.png" width="85%">
+  <img src="figures/carol.png" width="85%">
 </p>
 
 ---
